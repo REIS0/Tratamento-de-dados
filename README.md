@@ -1,7 +1,8 @@
 # Ler aqui
 
+Só precisa ter o pip funcionando, o resto é automatizado.
+
 ### Pra setar o ambiente do virtualenv
-* `chmod +x setup.sh`
 * `./setup.sh`
 
 ### Pra usar o virtualenv
